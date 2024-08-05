@@ -5,4 +5,3 @@
 
 ### Branches: ##
 - python_basics: python learning scripts and resources
->>>>>>> python_basics
